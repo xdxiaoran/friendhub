@@ -10,7 +10,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <spring.version>5.0.3.RELEASE</spring.version>
+    <spring.version>5.2.7.RELEASE</spring.version>
     <mybatis.version>3.4.4</mybatis.version>
   </properties>
   <dependencies>
@@ -97,7 +97,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>4.3.13.RELEASE</version>
+      <version>5.2.7.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>javax.servlet.jsp</groupId>
@@ -148,7 +148,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-web</artifactId>
-      <version>5.0.3.RELEASE</version>
+      <version>5.2.7.RELEASE</version>
     </dependency>
     <!-- 第四部分：日志 -->
     <!-- 实现slf4j接口并整合 -->
